@@ -122,7 +122,7 @@ require 'bibliotecas/vendor/autoload.php';
             $email->SMTPAuth = true;
             $email->Host = 'smtp.gmail.com';
             $email->Username = 'silascastro15@gmail.com';
-            $email->Password = '09/head,18*1';
+            $email->Password = '';
             $email->Port = 587;
 
             $email->SMTPSecure = 'tls';
